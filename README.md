@@ -1,2 +1,2 @@
-# TP-N-1
+#tecnomultimedia
 Circulo Cromatico
