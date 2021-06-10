@@ -186,7 +186,8 @@ int py, py2;
    }
 
   void keyPressed() {
-  if (keyCode==ENTER)
+  if (keyCode==ENTER){
   py = 200;
   frameCount = 0;
+    }
   }
