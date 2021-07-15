@@ -1,3 +1,4 @@
+https://www.youtube.com/watch?v=ea0r0nLxHPA (Video explicativo)
 
 int cant = 15;
 color c;
