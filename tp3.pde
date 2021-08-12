@@ -1,7 +1,7 @@
 //>>iNPIRACIÓN DE LA ILUSIÓN TOMADA DEL SIGUIENTE SITIO WEB>>: "https://www.cibermitanios.com.ar/2015/05/ilusiones-opticas-interactivas.html"
 
 //TP2 - Renzo Ciminello (88242/4)
-//Link al video explicativo: ""
+//Link al video explicativo: "https://youtu.be/ZYyjiwcbnJM"
 
 PFont font, font2;
 int cant = 15;
