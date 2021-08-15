@@ -93,3 +93,29 @@ void keyPressed() {
     seMueve=true;
   }
 }
+void mousePressed() {
+  //Reiniciar
+  if (mouseX > 235 && mouseX <365 && mouseY > 283 && mouseY < 300) {
+    mov=0;
+    mov2=0;
+    direc=1;
+    dosc=false;
+  }
+
+  //Detener
+  if (mouseX > 248 && mouseX < 351 && mouseY > 363 && mouseY < 380) {
+    if (seMueve==true) {
+      seMueve=false;
+    } else {
+      seMueve=true;
+    }
+  }
+  //Unir
+  if (mouseX > 270 && mouseX < 330 && mouseY > 323 && mouseY < 340) {
+    if (dosc==true) {
+      dosc=false;
+    } else {
+      dosc=true;
+    }
+  }
+}
