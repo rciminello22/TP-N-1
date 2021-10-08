@@ -1,3 +1,4 @@
+//LINK AL VIDEO DE EXPLICACIÓN: https://www.youtube.com/watch?v=oUKYUTsRNP4
 int maxImg = 21;
 PImage [] img = new PImage [maxImg];
 PFont font, fontCreditos;
