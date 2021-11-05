@@ -1,3 +1,4 @@
+//Link al video de explicación: https://www.youtube.com/watch?v=pHg1xcBkf74
 //TRATA DE ALCANZAR LOS 100 PUNTOS
 //Renzo Ciminello
 Juego game;
