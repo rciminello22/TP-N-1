@@ -106,7 +106,7 @@ class Juego {
         polens[i].px = random(30, 580);
         polens[i].py = random(-200, 30);
         pa.puntos+=5;
-        colisionPolen.amp(0.2);
+        colisionPolen.amp(0.8);
         colisionPolen.play();
       }
       if (pa.puntos>=100) {
@@ -122,7 +122,7 @@ class Juego {
         rama[i].rx = random(30, 580);
         rama[i].ry = random(-200, 30);
         pa.puntos-=5;
-        colisionRama.amp(0.1);
+        colisionRama.amp(0.3);
         colisionRama.play();
       }
       if (pa.puntos<=0) {
