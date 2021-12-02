@@ -10,7 +10,7 @@ void setup() {
   fondo = new SoundFile(this, "base.aiff");
   colisionPolen = new SoundFile(this, "Polen.aiff");
   colisionRama = new SoundFile(this, "Rama.aiff");
-  fondo.amp(0.05);
+  fondo.amp(0.3);
   fondo.play();
   fondo.loop();
 }
