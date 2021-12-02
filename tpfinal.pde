@@ -1,3 +1,5 @@
+link al video explicativo: https://www.youtube.com/watch?v=NzSEp7g4XbY
+
 import processing.sound.*;
 SoundFile fondo, colisionPolen, colisionRama;
 
